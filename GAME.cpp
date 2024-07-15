@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    int maxi=3;
+    int maxi=4;
     int counter=0,guess=4,myguess;
     cout<<"enter your guess number:"<<endl;
     cin>>myguess;
